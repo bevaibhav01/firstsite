@@ -1,0 +1,119 @@
+body{
+  text-align: center;
+font-family: 'Merriweather', serif;
+margin:0;
+
+}
+.mid{
+  margin-top: 80px;
+}
+.top{
+  background-color: #EAF6F6;
+  height :800px;
+  margin: 0;
+  padding:0;
+}
+h1{
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  color:#66BFBF;
+  line-height: 2;
+
+}
+h2{
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66BFBF;
+}
+h3{
+  color:#11999E;
+  padding-top: 25px;
+}
+.mid{
+
+}
+.skill-row{
+  width:50%;
+text-align: left;
+  margin:100px auto 100px auto;
+  line-height: 2.5;
+
+
+
+}
+.simg{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.spimg{
+  line-height: 2;
+  width: 25%;
+float:right;
+margin-right: 2px;
+
+}
+.my{
+  height : 270px;
+  border-radius: 50%;
+}
+.bottom{
+background-color: #66BFBF;
+height : 200px;
+margin-top: 40px;
+padding-top: 50px;
+
+}
+.tcloud{
+position: absolute;
+display: block;
+right:340px;
+
+
+
+
+}
+.tcloud1{
+  color:#EAF6F6;
+}
+.bcloud{
+  position : absolute;
+  left: 300;
+}
+hr{
+  width: 10%;
+  border-top: dotted;
+  border-bottom:none;
+  border-right: none;
+  border-left: none;
+  border-color: #66BFBF;
+  border-width: 10px;
+
+
+}
+button{
+  height: 35px;
+  width: 200px;
+  background-color: #66BFBF;
+  border-radius: 8px;
+  font-size: 20px;
+  border-style: none;
+  cursor: pointer;
+  font-weight: bold;
+  color: white;
+
+}
+.footer-link{
+  color: #11999E;
+  margin-right: 30px;
+  margin-bottom: 20px;
+  text-decoration: none;
+  margin-top:30px;
+
+}
+a:hover{
+  color: blue;
+}
+button:hover{
+  color:blue;
+}
